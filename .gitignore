@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.python-version
+
+# Environments / IDE
+.env
+.idea/
+.vscode/
+.DS_Store
+
+# Build / packaging
+build/
+dist/
+*.egg
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Trained model artifacts (regenerate via `python train.py`)
+model.joblib
+feature_columns.json
+train_output.log
+
+# Optional: keep CSVs out of git if dataset is large.
+# Comment these out if you want to commit them.
+# train.csv
+# test.csv
+# sample_submission.csv
