@@ -1,6 +1,6 @@
 # House Price Prediction — End-to-End ML Pipeline
 
-A deployment-ready machine learning pipeline that predicts Indian residential property prices (in lakhs of rupees) from listing attributes such as area, bedroom count, locality, and posting source. The repository covers the full lifecycle: EDA → preprocessing → feature engineering → model selection → hyperparameter tuning → REST API.
+A deployment-ready machine learning pipeline that predicts Indian residential property pricesin rupees(used a random database from Kaggle) from listing attributes such as area, bedroom count, locality, and posting source. The repository covers the full lifecycle: EDA → preprocessing → feature engineering → model selection → hyperparameter tuning → REST API.
 
 ## Quick Start
 
